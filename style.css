@@ -1,0 +1,17 @@
+ body{
+   background-color:#0ec777;
+   border-style: solid;
+   border-color: #00ff91;
+   border-width:10px;
+   margin:0px;
+ }
+header{
+  font-family:monospace;
+  font-size:30px;
+  letter-spacing:2px;
+}
+h1{
+  text-transform:uppercase;
+}
+h3{text-align:center;
+  }
