@@ -1,8 +1,8 @@
 
 body{
-   background-color:#0ec777;
+   background-color:#c2ffe4;
    border-style: solid;
-   border-color: #00ff91;
+   border-color: #40ce91;
    border-width:10px;
    margin:0px;
  }
@@ -10,10 +10,17 @@ header{
   font-family:Selima-script;
   font-size:30px;
   letter-spacing:2px;
+  color:FFFFFF;
 
 }
 h1{
   text-transform:uppercase;
+  color:FFFFFF;
 }
 h3{text-align:center;
   }
+.myName{
+  text-align:center;
+  margin:0px;
+  color:FFFFFF;
+}
