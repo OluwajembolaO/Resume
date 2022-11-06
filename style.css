@@ -18,9 +18,22 @@ h1{
   color:#FFFFFF;
 }
 h3{text-align:center;
+   font-size:36px;
+   color:#0d7d4c;
   }
+
+h4{font-size:25px;
+  color:#2DDB90}
 .myName{
   text-align:center;
   margin:0px;
   color:#FFFFFF;
+}
+
+p{color:#06b17e;
+  font-size:20px
+}
+ul,li{color:#06b17e;
+  font-size:20px
+  
 }
