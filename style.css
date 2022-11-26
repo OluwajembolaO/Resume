@@ -5,7 +5,7 @@ body{
    border-color: #40ce91;
    border-width:10px;
    margin:0px;
- }
+  background-image: linear-gradient(to bottom, #00ffe1, #000000);}
 header{
   font-family:Selima-script;
   font-size:30px;
@@ -30,14 +30,35 @@ h4{font-size:25px;
   color:#FFFFFF;
 }
 
-p{color:#06b17e;
+p{color:#46a085;
   font-size:20px
 }
-ul,li{color:#06b17e;
+ul,li{color:#07503a;
   font-size:20px
   
 }
 
 #contactInfo{
   color:#05fca9;
+}
+
+img{
+   border-left-color:#07503a;
+         border-right-color:#07a676;
+         border-top-color:#07a676;
+         border-bottom-color:#07503a;
+  transition:all .5s linear; /*smooth color changer*/
+}
+img:hover{
+border-left-color:#666666;
+border-right-color:#cfcfcf;
+border-top-color:#cfcfcf;
+border-bottom-color:#666666;
+}
+a{
+color:#00ffe1;
+transition:all 1s linear;
+}
+a:hover{
+  color:blueviolet;
 }
