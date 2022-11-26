@@ -33,8 +33,7 @@ h4{font-size:25px;
 p{color:#46a085;
   font-size:20px
 }
-ul,li{color:#07503a;
-  font-size:20px
+
   
 }
 
@@ -60,5 +59,14 @@ color:#00ffe1;
 transition:all 1s linear;
 }
 a:hover{
-  color:blueviolet;
+  color:blueviolet; 
 }
+.Grades{
+color:#07503a;
+transition:all .25s linear;
+}
+.Grades:hover{
+  color:#2DDB90;
+}
+ul,li{color:#07503a;
+  font-size:20px
