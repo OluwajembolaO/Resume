@@ -5,7 +5,7 @@ body{
    border-color: #40ce91;
    border-width:10px;
    margin:0px;
-  background-image: linear-gradient(to bottom, #00ffe1, #000000);}
+  background-image: linear-gradient( to bottom, #00ffe1, #000000);}/*Smooth color change in the background*/
 header{
   font-family:Selima-script;
   font-size:30px;
@@ -69,4 +69,6 @@ transition:all .25s linear;
   color:#2DDB90;
 }
 ul,li{color:#07503a;
-  font-size:20px
+  font-size:20px;}
+.Drawings{text-align:center;
+         }
